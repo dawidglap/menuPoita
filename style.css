@@ -1,0 +1,58 @@
+* {
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+    background-color: rgb(255, 246, 234);
+}
+
+
+
+h1 {
+    font-family: 'Barlow Condensed', sans-serif;
+    background-color: rgb(90, 146, 147);
+    color: white;
+    
+}
+
+h2 {
+    /* font-family: 'Satisfy', cursive; */
+    color: rgb(90, 146, 147);
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    
+}
+
+h6 {
+    color: rgb(90, 146, 147);
+}
+
+small {
+    font-size: 68%;
+}
+
+.detail {
+    font-size: 75%;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.nav-link,
+h5 {
+    /* color: black; */
+    color: rgb(90, 146, 147);
+
+    /* text-decoration: underline; */
+    font-size: small;
+}
+
+.scrollspyHeading1:active {
+    color: white !important;
+}
+
+.pe-custom {
+    padding-right: 25% !important;
+}
+
